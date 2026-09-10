@@ -1,6 +1,6 @@
-﻿"Largeur Bande"= 24.3
+﻿"Largeur Bande"= 16.3
 "Largeur_Rail"= "Largeur Bande" + 1
-"Profondeur Bande"= 12
+"Profondeur Bande"= 8
 "Profondeur_Rail" = "Profondeur Bande" + 0.2
 "Largeur Feeder"= "Largeur Rail" + 1.2 + 1.2 + 0.3
 "Largeur Rail"= "Largeur Bande" + 1
